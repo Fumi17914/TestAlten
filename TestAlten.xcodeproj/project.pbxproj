@@ -60,11 +60,11 @@
 		D819B25B268E7D6900468414 /* TestAlten */ = {
 			isa = PBXGroup;
 			children = (
+				D819B260268E7D6A00468414 /* Assets.xcassets */,
 				D819B270268E7DEA00468414 /* App */,
 				D819B271268E7E2700468414 /* Model.swift */,
 				D819B273268E7E5800468414 /* ViewModel.swift */,
 				D819B25E268E7D6900468414 /* ContentView.swift */,
-				D819B260268E7D6A00468414 /* Assets.xcassets */,
 				D819B26A268E7D6A00468414 /* Info.plist */,
 				D819B267268E7D6A00468414 /* TestAlten.xcdatamodeld */,
 				D819B262268E7D6A00468414 /* Preview Content */,
