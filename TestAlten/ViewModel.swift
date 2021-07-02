@@ -14,7 +14,7 @@ class ViewModel {
         Model(id: 0, code: 1001, name: "Juan", phoneNumber: "612345678", mail: "juan@gmail.com", visited: true),
         Model(id: 1, code: 1003, name: "Maria", phoneNumber: "601234567", mail: "maria@gmail.com", visited: false),
         Model(id: 2, code: 1002, name: "Jose", phoneNumber: "645612378", mail: "jose@gmail.com", visited: false),
-        Model(id: 3, code: 1000, name: "Mireia", phoneNumber: "654890721", mail: "mireia@gmail.com", visited: true),
+        Model(id: 3, code: 1000, name: "Irina", phoneNumber: "654890721", mail: "irina@gmail.com", visited: true),
         Model(id: 4, code: 1005, name: "Natalia", phoneNumber: "613566784", mail: "natalia@gmail.com", visited: false),
         Model(id: 5, code: 1006, name: "Javier", phoneNumber: "621928376", mail: "javier@gmail.com", visited: true),
         Model(id: 6, code: 1007, name: "Franc", phoneNumber: "629034567", mail: "franc@gmail.com", visited: true),

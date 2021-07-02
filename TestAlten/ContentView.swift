@@ -87,7 +87,7 @@ struct ContentView: View {
                                                     nameButtonOpacity = 1
                                                     codeButtonOpacity = 0.3
                                                     visitedButtonOpacity = 0.3
-                                                    
+                                                    backgroundColorButtonVisited = .black
                                                 default:
                                                     isSelectedNameSort = false
                                                     nameButtonOpacity = 0.3
@@ -115,6 +115,7 @@ struct ContentView: View {
                                                     codeButtonOpacity = 1
                                                     nameButtonOpacity = 0.3
                                                     visitedButtonOpacity = 0.3
+                                                    backgroundColorButtonVisited = .black
                                                 
                                                 default:
                                                     isSelectedCodeSort = false
